@@ -1,0 +1,1 @@
+insert into admin values (aes_encrypt('spv','nur'),aes_encrypt('server','windi'));
