@@ -1,1 +1,2 @@
-# 10-aplikasi-manajemen
+DESAIN HAMBA ALLOH
+APLIKASI VERSI 6.0
